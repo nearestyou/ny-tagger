@@ -11,6 +11,10 @@ PREMISES_TYPES = {
   'scrape_hero' => {
     off: ["grocery store", "retailer", "warehouse store"],
     both: ["farmers market"]
+  },
+  'manual' => {
+    off: ["liquor store", "retailer", "warehouse store", "grocery_store"],
+    both: ["farmers market"]
   }
 }
 

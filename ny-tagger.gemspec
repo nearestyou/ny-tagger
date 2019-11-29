@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "ny-tagger"
-  s.version = "0.0.1"
+  s.version = "0.0.2"
   s.date = "2019-11-29"
   s.summary = 'Logic to add tags to new locations in NY-Atlas'
   s.author = 'P Kirwin'
