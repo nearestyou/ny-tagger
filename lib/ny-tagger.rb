@@ -9,7 +9,7 @@ PREMISES_TYPES = {
     both: ["brewery", "cidery", "distillery", "shopping mall", "spa", "farm", "premise", "subpremise", "shopping mall", "museum", "brewpub", "distillery", "winery", "beer garden", "vineyard", "farm", "museum", "cidery", "airport"],
     },
   'scrape_hero' => {
-    off: ["grocery store", "retailer", "warehouse store"],
+    off: ["grocery store", "retailer", "warehouse store", "pharmacy"],
     both: ["farmers market"]
   },
   'manual' => {
