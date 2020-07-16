@@ -13,7 +13,7 @@ PREMISES_TYPES = {
     both: ["farmers market"]
   },
   'manual' => {
-    off: ["liquor store", "retailer", "warehouse store", "grocery_store"],
+    off: ["liquor store", "retailer", "warehouse store", "grocery_store", "convenience_store"],
     both: ["farmers market"]
   }
 }
